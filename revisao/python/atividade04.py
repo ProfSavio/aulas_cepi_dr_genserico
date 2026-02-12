@@ -1,0 +1,1 @@
+# Peça quantas fases o jogo tem e use um for para exibir cada fase iniciada.

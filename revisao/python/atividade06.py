@@ -1,0 +1,1 @@
+# Use while para contar de 3 até 1 e depois mostrar 'Partida iniciada!'
